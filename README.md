@@ -1,2 +1,6 @@
 # LangChain_RAG
-Simple file which answers to question based on a given source like a web page
+An agent which responds to the user query utilizing the retrieval function from a data source. 
+
+Please refer to the image "MindMap.png" to understand the exact flow and how things works behind the curtains
+
+
